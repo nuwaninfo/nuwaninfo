@@ -43,4 +43,4 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=nuwaninfo&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=nuwaninfo&show_icons=true&theme=radical&cache_seconds=7200)
