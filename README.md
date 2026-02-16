@@ -7,7 +7,7 @@
 
 <p align="left">
   <!-- PHP -->
-  PHP <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
   <!-- Laravel -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" />
   <!-- Drupal -->
